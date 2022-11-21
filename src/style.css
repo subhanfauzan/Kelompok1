@@ -1,0 +1,11 @@
+.sarno {
+  overflow: hidden;
+}
+
+.sarno div {
+  transition: 500ms ease-in-out;
+}
+
+.sarno div:hover {
+  transform: scale(1.1);
+}
