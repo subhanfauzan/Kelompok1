@@ -583,6 +583,14 @@ video {
   position: relative;
 }
 
+.sticky {
+  position: sticky;
+}
+
+.top-0 {
+  top: 0px;
+}
+
 .m-3 {
   margin: 0.75rem;
 }
@@ -1033,14 +1041,6 @@ video {
   padding-top: 3.5rem;
 }
 
-.pb-20 {
-  padding-bottom: 5rem;
-}
-
-.pt-24 {
-  padding-top: 6rem;
-}
-
 .pt-20 {
   padding-top: 5rem;
 }
@@ -1067,6 +1067,10 @@ video {
 
 .pb-3 {
   padding-bottom: 0.75rem;
+}
+
+.pb-20 {
+  padding-bottom: 5rem;
 }
 
 .text-center {
